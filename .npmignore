@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log
+bower_components/
+coverage/
+.idea/
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+Icon?
+Thumbs.db
+.tmp

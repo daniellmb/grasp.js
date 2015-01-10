@@ -1,0 +1,70 @@
+{
+  "name": "graspjs",
+  "version": "0.1.0",
+  "description": "Grasp.js is a handgrip pattern recognition micro-library for mobile devices.",
+  "author": {
+    "name": "Daniel Lamb",
+    "email": "dlamb.open.source@gmail.com",
+    "url": "https://github.com/daniellmb"
+  },
+  "homepage": "https://github.com/daniellmb/grasp.js",
+  "bugs": {
+    "url": "https://github.com/daniellmb/grasp.js/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://daniellmb.mit-license.org"
+    }
+  ],
+  "maintainers": [],
+  "contributors": [{
+    "name": "Daniel Lamb",
+    "email": "dlamb.open.source@gmail.com",
+    "url": "https://github.com/daniellmb"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daniellmb/grasp.js.git"
+  },
+  "main": "grasp.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "grip",
+    "left",
+    "right",
+    "hand",
+    "handgrip",
+    "posture",
+    "pattern",
+    "recognition",
+    "mobile",
+    "phone",
+    "tablet",
+    "device",
+    "micro",
+    "library"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-jshint": "*",
+    "gulp-complexity": "*",
+    "gulp-rename": "*",
+    "gulp-replace": "*",
+    "gulp-uglify": "*",
+    "gulp-coffee": "*",
+    "gulp-karma": "*",
+    "karma-jasmine": "*",
+    "coffee-script": "*",
+    "karma-coffee-preprocessor": "*",
+    "karma-coverage": "*",
+    "karma-phantomjs-launcher": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
