@@ -70,19 +70,19 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
-[build-url]: https://travis-ci.org/daniellmb/graspjs
+[build-url]: https://travis-ci.org/daniellmb/grasp.js
 [build-image]: http://img.shields.io/travis/daniellmb/grasp.js.png
 
-[gpa-url]: https://codeclimate.com/github/daniellmb/graspjs
+[gpa-url]: https://codeclimate.com/github/daniellmb/grasp.js
 [gpa-image]: https://codeclimate.com/github/daniellmb/grasp.js.png
 
-[coverage-url]: https://codeclimate.com/github/daniellmb/graspjs/code?sort=covered_percent&sort_direction=desc
-[coverage-image]: https://codeclimate.com/github/daniellmb/graspjs/coverage.png
+[coverage-url]: https://codeclimate.com/github/daniellmb/grasp.js/code?sort=covered_percent&sort_direction=desc
+[coverage-image]: https://codeclimate.com/github/daniellmb/grasp.js/coverage.png
 
-[depstat-url]: https://david-dm.org/daniellmb/graspjs
+[depstat-url]: https://david-dm.org/daniellmb/grasp.js
 [depstat-image]: https://david-dm.org/daniellmb/grasp.js.png?theme=shields.io
 
-[issues-url]: https://github.com/daniellmb/graspjs/issues
+[issues-url]: https://github.com/daniellmb/grasp.js/issues
 [issues-image]: http://img.shields.io/github/issues/daniellmb/grasp.js.png
 
 [bower-url]: http://bower.io/search/?q=graspjs
@@ -92,13 +92,13 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [downloads-image]: http://img.shields.io/npm/dm/grasp.js.png
 
 [npm-url]: https://www.npmjs.org/package/graspjs
-[npm-image]: https://badge.fury.io/js/grasp.js.png
+[npm-image]: https://badge.fury.io/js/graspjs.png
 
 [irc-url]: http://webchat.freenode.net/?channels=graspjs
 [irc-image]: http://img.shields.io/badge/irc-%23graspjs-brightgreen.png
 
-[gitter-url]: https://gitter.im/daniellmb/graspjs
-[gitter-image]: http://img.shields.io/badge/gitter-daniellmb/graspjs-brightgreen.png
+[gitter-url]: https://gitter.im/daniellmb/grasp.js
+[gitter-image]: http://img.shields.io/badge/gitter-daniellmb/grasp.js-brightgreen.png
 
 [tip-url]: https://www.gittip.com/daniellmb
 [tip-image]: http://img.shields.io/gittip/daniellmb.png
