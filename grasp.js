@@ -1,6 +1,5 @@
 /**
- * @file graspjs is micro-library.
- * Scaffolded with generator-microjs
+ * @file Grasp.js is a hand grip pattern recognition micro-library for mobile devices.
  * @author Daniel Lamb <dlamb.open.source@gmail.com>
  */
 

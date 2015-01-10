@@ -4,8 +4,6 @@
  * ### Responsibilities
  * - automate common tasks using gulp
  *
- * Scaffolded with generator-microjs v0.1.2
- *
  * @author Daniel Lamb <dlamb.open.source@gmail.com>
  */
 'use strict';
